@@ -1,0 +1,10 @@
+C:\Archive\6 Семестр\СПО\Compiler\bin\Debug\net472\Compiler.exe.config
+C:\Archive\6 Семестр\СПО\Compiler\bin\Debug\net472\Compiler.exe
+C:\Archive\6 Семестр\СПО\Compiler\bin\Debug\net472\Compiler.pdb
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.csprojAssemblyReference.cache
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.AssemblyInfoInputs.cache
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.AssemblyInfo.cs
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.csproj.CoreCompileInputs.cache
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.exe
+C:\Archive\6 Семестр\СПО\Compiler\obj\Debug\net472\Compiler.pdb
